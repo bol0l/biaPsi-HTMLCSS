@@ -140,7 +140,7 @@
     box-sizing: border-box;
   }
 
-  .saibamais {
+  .btnSaibaMais {
     box-shadow:inset 0px 1px 0px 0px #e184f3;
     background:linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
     background-color:#c123de;
@@ -157,11 +157,11 @@
     text-shadow:0px 5px 0px #9b14b3;
     min-width: 400px;
   }
-  .saibamais:hover {
+  .btnSaibaMais {
     background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
     background-color:#a20dbd;
   }
-  .saibamais:active {
+  .btnSaibaMais::active {
     position:relative;
     top:1px;
   }
