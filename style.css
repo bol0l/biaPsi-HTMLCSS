@@ -392,9 +392,11 @@ input[type=submit]:hover {
 }
 
 
-
-
-
+.quemsoueu {
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: justify;
+}
 
 
 .footer-distributed{

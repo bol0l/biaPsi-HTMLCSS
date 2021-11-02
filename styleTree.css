@@ -24,6 +24,7 @@ body {
     width: 90vw;
     margin: 40px auto;
     gap: 20px;
+    text-align: center;
 }
 .link-tree img {
     width: 150px;
