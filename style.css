@@ -91,7 +91,7 @@
     border-radius: 5px;
     border-width: 3px;
     background-color: white;
-    width: 105px;
+    width: 200px;
     height: 35px;
     font-size: 18px;
     font-weight: bold;
@@ -406,8 +406,7 @@ input[type=submit]:hover {
   width: 100%;
   text-align: left;
   font: bold 16px sans-serif;
-  
-  padding: 55px 50px;
+  padding: 20px 22px;
   margin-top: 80px;
  }
   
