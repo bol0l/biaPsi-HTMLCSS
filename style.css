@@ -25,26 +25,7 @@
 
   
   
-@keyframes slideInFromLeft {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
 
-/* Add a black background color to the top navigation */
-.topnav {
-  animation: 1s ease-out 0s 1 slideInFromLeft;
-  animation-delay: 1s;
-       position: relative;
-    background-color: transparent;
-    overflow:hidden;
-    width: auto;
-    height: auto;
-    
-}
   
   /* Style the links inside the navigation bar */
   .topnav a {
