@@ -26,6 +26,16 @@
   
   
 
+
+/* Add a black background color to the top navigation */
+.topnav {
+       position: relative;
+    background-color: transparent;
+    overflow:hidden;
+    width: auto;
+    height: auto;
+    
+}
   
   /* Style the links inside the navigation bar */
   .topnav a {
